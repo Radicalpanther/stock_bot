@@ -1,6 +1,5 @@
 {
  "fails": 0,
- "last_alert": "2026-11-26T06:21:07.899399+05:30",
  "last_heartbeat": "2026-11-25",
- "status": "IN_STOCK"
+ "status": "OUT_OF_STOCK"
 }
